@@ -10,7 +10,9 @@ const nextConfig = {
       'upload.wikimedia.org',
       'i.ytimg.com',
       'angartwork.akamaized.net',
-      'i.scdn.co'
+      'i.scdn.co',
+      'resources.tidal.com',
+      'encrypted-tbn1.gstatic.com'
     ],
   },
 }
